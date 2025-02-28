@@ -1,0 +1,15 @@
+"filename", "language", "JSON", "JavaScript", "Properties", "comment", "blank", "total"
+"d:\Websites\imagify\server\.env", "Properties", 0, 0, 7, 4, 4, 15
+"d:\Websites\imagify\server\configs\mongodb.js", "JavaScript", 0, 8, 0, 0, 5, 13
+"d:\Websites\imagify\server\controllers\UserController.js", "JavaScript", 0, 222, 0, 30, 70, 322
+"d:\Websites\imagify\server\controllers\imageController.js", "JavaScript", 0, 31, 0, 9, 12, 52
+"d:\Websites\imagify\server\middlewares\auth.js", "JavaScript", 0, 19, 0, 8, 9, 36
+"d:\Websites\imagify\server\models\transactionModel.js", "JavaScript", 0, 11, 0, 0, 3, 14
+"d:\Websites\imagify\server\models\userModel.js", "JavaScript", 0, 9, 0, 0, 3, 12
+"d:\Websites\imagify\server\package-lock.json", "JSON", 2187, 0, 0, 0, 1, 2188
+"d:\Websites\imagify\server\package.json", "JSON", 26, 0, 0, 0, 1, 27
+"d:\Websites\imagify\server\routes\imageRoutes.js", "JavaScript", 0, 6, 0, 0, 3, 9
+"d:\Websites\imagify\server\routes\userRoutes.js", "JavaScript", 0, 20, 0, 0, 3, 23
+"d:\Websites\imagify\server\server.js", "JavaScript", 0, 15, 0, 3, 6, 24
+"d:\Websites\imagify\server\vercel.json", "JSON", 16, 0, 0, 0, 0, 16
+"Total", "-", 2229, 341, 7, 54, 120, 2751

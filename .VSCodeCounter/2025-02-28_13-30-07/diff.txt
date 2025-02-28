@@ -1,0 +1,46 @@
+Date : 2025-02-28 13:30:07
+Directory : d:\Websites\imagify
+Total : 13 files,  2577 codes, 54 comments, 120 blanks, all 2751 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |      2,229 |          0 |          2 |      2,231 |
+| JavaScript |          9 |        341 |         50 |        114 |        505 |
+| Properties |          1 |          7 |          4 |          4 |         15 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                         |         13 |      2,577 |         54 |        120 |      2,751 |
+| server                                                    |         13 |      2,577 |         54 |        120 |      2,751 |
+| server (Files)                                            |          5 |      2,251 |          7 |         12 |      2,270 |
+| server\configs                                            |          1 |          8 |          0 |          5 |         13 |
+| server\controllers                                        |          2 |        253 |         39 |         82 |        374 |
+| server\middlewares                                        |          1 |         19 |          8 |          9 |         36 |
+| server\models                                             |          2 |         20 |          0 |          6 |         26 |
+| server\routes                                             |          2 |         26 |          0 |          6 |         32 |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                  | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\Websites\imagify\server\.env                           | Properties |          7 |          4 |          4 |         15 |
+| d:\Websites\imagify\server\configs\mongodb.js             | JavaScript |          8 |          0 |          5 |         13 |
+| d:\Websites\imagify\server\controllers\UserController.js  | JavaScript |        222 |         30 |         70 |        322 |
+| d:\Websites\imagify\server\controllers\imageController.js | JavaScript |         31 |          9 |         12 |         52 |
+| d:\Websites\imagify\server\middlewares\auth.js            | JavaScript |         19 |          8 |          9 |         36 |
+| d:\Websites\imagify\server\models\transactionModel.js     | JavaScript |         11 |          0 |          3 |         14 |
+| d:\Websites\imagify\server\models\userModel.js            | JavaScript |          9 |          0 |          3 |         12 |
+| d:\Websites\imagify\server\package-lock.json              | JSON       |      2,187 |          0 |          1 |      2,188 |
+| d:\Websites\imagify\server\package.json                   | JSON       |         26 |          0 |          1 |         27 |
+| d:\Websites\imagify\server\routes\imageRoutes.js          | JavaScript |          6 |          0 |          3 |          9 |
+| d:\Websites\imagify\server\routes\userRoutes.js           | JavaScript |         20 |          0 |          3 |         23 |
+| d:\Websites\imagify\server\server.js                      | JavaScript |         15 |          3 |          6 |         24 |
+| d:\Websites\imagify\server\vercel.json                    | JSON       |         16 |          0 |          0 |         16 |
+| Total                                                     |            |      2,577 |         54 |        120 |      2,751 |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+

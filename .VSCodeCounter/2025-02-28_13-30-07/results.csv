@@ -1,0 +1,59 @@
+"filename", "language", "JSON", "JavaScript", "Markdown", "Properties", "Django HTML", "JavaScript JSX", "CSS", "XML", "comment", "blank", "total"
+"d:\Websites\imagify\client\.env", "Properties", 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2
+"d:\Websites\imagify\client\README.md", "Markdown", 0, 0, 5, 0, 0, 0, 0, 0, 0, 4, 9
+"d:\Websites\imagify\client\eslint.config.js", "JavaScript", 0, 37, 0, 0, 0, 0, 0, 0, 0, 2, 39
+"d:\Websites\imagify\client\index.html", "Django HTML", 0, 0, 0, 0, 14, 0, 0, 0, 0, 1, 15
+"d:\Websites\imagify\client\package-lock.json", "JSON", 5717, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5718
+"d:\Websites\imagify\client\package.json", "JSON", 35, 0, 0, 0, 0, 0, 0, 0, 0, 1, 36
+"d:\Websites\imagify\client\postcss.config.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\Websites\imagify\client\public\favicon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"d:\Websites\imagify\client\src\App.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 30, 0, 0, 0, 6, 36
+"d:\Websites\imagify\client\src\assets\assets.js", "JavaScript", 0, 94, 0, 0, 0, 0, 0, 0, 0, 4, 98
+"d:\Websites\imagify\client\src\assets\credit_star.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"d:\Websites\imagify\client\src\assets\cross_icon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"d:\Websites\imagify\client\src\assets\download_icon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"d:\Websites\imagify\client\src\assets\email_icon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"d:\Websites\imagify\client\src\assets\facebook_icon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 5
+"d:\Websites\imagify\client\src\assets\favicon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"d:\Websites\imagify\client\src\assets\instagram_icon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 5
+"d:\Websites\imagify\client\src\assets\lock_icon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"d:\Websites\imagify\client\src\assets\logo.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 17, 0, 1, 18
+"d:\Websites\imagify\client\src\assets\logo_icon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"d:\Websites\imagify\client\src\assets\rating_star.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"d:\Websites\imagify\client\src\assets\star_icon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 5
+"d:\Websites\imagify\client\src\assets\step_icon_1.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 5, 0, 1, 6
+"d:\Websites\imagify\client\src\assets\step_icon_2.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 5
+"d:\Websites\imagify\client\src\assets\step_icon_3.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 5, 0, 1, 6
+"d:\Websites\imagify\client\src\assets\twitter_icon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 5
+"d:\Websites\imagify\client\src\components\Description.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 30, 0, 0, 0, 2, 32
+"d:\Websites\imagify\client\src\components\Footer.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 16, 0, 0, 0, 2, 18
+"d:\Websites\imagify\client\src\components\GenerateBtn.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 33, 0, 0, 1, 8, 42
+"d:\Websites\imagify\client\src\components\Header.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 87, 0, 0, 24, 20, 131
+"d:\Websites\imagify\client\src\components\Login.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 80, 0, 0, 2, 30, 112
+"d:\Websites\imagify\client\src\components\Navbar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 40, 0, 0, 0, 8, 48
+"d:\Websites\imagify\client\src\components\Steps.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 35, 0, 0, 31, 9, 75
+"d:\Websites\imagify\client\src\components\Testimonials.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 35, 0, 0, 0, 2, 37
+"d:\Websites\imagify\client\src\context\AppContext.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 68, 0, 0, 0, 18, 86
+"d:\Websites\imagify\client\src\index.css", "CSS", 0, 0, 0, 0, 0, 0, 11, 0, 0, 3, 14
+"d:\Websites\imagify\client\src\main.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 12, 0, 0, 0, 2, 14
+"d:\Websites\imagify\client\src\pages\BuyCredit.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 95, 0, 0, 0, 18, 113
+"d:\Websites\imagify\client\src\pages\Home.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 18, 0, 0, 0, 2, 20
+"d:\Websites\imagify\client\src\pages\Result.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 48, 0, 0, 0, 11, 59
+"d:\Websites\imagify\client\src\pages\Verify.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 38, 0, 0, 1, 15, 54
+"d:\Websites\imagify\client\tailwind.config.js", "JavaScript", 0, 10, 0, 0, 0, 0, 0, 0, 1, 0, 11
+"d:\Websites\imagify\client\vercel.json", "JSON", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8
+"d:\Websites\imagify\client\vite.config.js", "JavaScript", 0, 5, 0, 0, 0, 0, 0, 0, 1, 2, 8
+"d:\Websites\imagify\server\.env", "Properties", 0, 0, 0, 7, 0, 0, 0, 0, 4, 4, 15
+"d:\Websites\imagify\server\configs\mongodb.js", "JavaScript", 0, 8, 0, 0, 0, 0, 0, 0, 0, 5, 13
+"d:\Websites\imagify\server\controllers\UserController.js", "JavaScript", 0, 222, 0, 0, 0, 0, 0, 0, 30, 70, 322
+"d:\Websites\imagify\server\controllers\imageController.js", "JavaScript", 0, 31, 0, 0, 0, 0, 0, 0, 9, 12, 52
+"d:\Websites\imagify\server\middlewares\auth.js", "JavaScript", 0, 19, 0, 0, 0, 0, 0, 0, 8, 9, 36
+"d:\Websites\imagify\server\models\transactionModel.js", "JavaScript", 0, 11, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"d:\Websites\imagify\server\models\userModel.js", "JavaScript", 0, 9, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"d:\Websites\imagify\server\package-lock.json", "JSON", 2187, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2188
+"d:\Websites\imagify\server\package.json", "JSON", 26, 0, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"d:\Websites\imagify\server\routes\imageRoutes.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"d:\Websites\imagify\server\routes\userRoutes.js", "JavaScript", 0, 20, 0, 0, 0, 0, 0, 0, 0, 3, 23
+"d:\Websites\imagify\server\server.js", "JavaScript", 0, 15, 0, 0, 0, 0, 0, 0, 3, 6, 24
+"d:\Websites\imagify\server\vercel.json", "JSON", 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16
+"Total", "-", 7989, 493, 5, 9, 14, 665, 11, 74, 115, 309, 9684
