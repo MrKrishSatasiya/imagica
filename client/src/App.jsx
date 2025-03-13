@@ -12,7 +12,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import Login from './components/Login'
 import { AppContext } from './context/AppContext'
 import Verify from './pages/Verify'
-
+ 
 const App = () => {
 
   const { showLogin } = useContext(AppContext)
