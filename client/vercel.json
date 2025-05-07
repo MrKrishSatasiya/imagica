@@ -4,5 +4,13 @@
             "source": "/(.*)",
             "destination": "/"
         }
-    ]
+    ],
+    "buildCommand": "npm run build",
+    "outputDirectory": "dist",
+    "framework": "vite",
+    "env": {
+        "VITE_API_URL": "@api_url",
+        "VITE_STRIPE_PUBLIC_KEY": "@stripe_public_key",
+        "VITE_RAZORPAY_KEY_ID": "@razorpay_key_id"
+    }
 }
